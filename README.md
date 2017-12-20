@@ -1,9 +1,10 @@
 # Equipe_Teste Selenium Project
+BDD Sample using Python and Behave.
 
 ## Requirements
 
-1. Python 3
-2. geckodriver
+1. [Python 3](https://www.python.org/downloads/)
+2. [geckodriver](https://github.com/mozilla/geckodriver/releases)
 
 ## Steps
 
