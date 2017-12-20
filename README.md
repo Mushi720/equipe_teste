@@ -1,11 +1,11 @@
-###Equipe_Teste Selenium Project
+# Equipe_Teste Selenium Project
 
-##Requirements
+## Requirements
 
 1. Python 3
 2. geckodriver
 
-##Steps
+## Steps
 
 1. Clone the project
 2. Install the libs (pip install -r requirements.txt)
