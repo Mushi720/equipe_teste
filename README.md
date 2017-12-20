@@ -1,7 +1,7 @@
 ##Requirements
 
-Python 3
-virtualenv
+1. Python 3
+2. geckodriver
 
 ##Steps
 
